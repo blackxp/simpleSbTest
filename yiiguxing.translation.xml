@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="concept" />
+      <item value="explicit" />
       <item value="architectural" />
       <item value="define the detailed implementation here" />
       <item value="We use a formal name space to define architectural related concepts" />
@@ -16,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
