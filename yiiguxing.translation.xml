@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="determine" />
       <item value="concept" />
       <item value="explicit" />
       <item value="architectural" />
@@ -10,7 +11,6 @@
       <item value="integration" />
       <item value="runtime" />
       <item value="arch" />
-      <item value="determine" />
       <item value="Inheritable" />
       <item value="flip" />
       <item value="Allocates" />
@@ -18,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
